@@ -1,5 +1,5 @@
 # Characterisation of the 3D structure of calreticulin
-The project (Perfomed in the Spring semester 2021) tried to determine differences between recombinant and the placental calreticulin using 15N Labelling.
+The project (Perfomed in the Spring semester 2021) tried to determine differences between recombinant and placental calreticulin using 15N Labelling.
 
 ## Project abstract
 xxx
