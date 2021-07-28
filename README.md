@@ -2,7 +2,10 @@
 The project (Perfomed in the Spring semester 2021) tried to determine differences between recombinant and placental calreticulin using 15N Labelling.
 
 ## Project abstract
-xxx
+The report investigates whether the recombinant and the placental calreticulin autodigests similarly using 15N labelled recombinant calreticulin. The results from the control experiments were similar across the two types. Therefore, it is possible to use 15N labelling in such autodigestion experiments. Moreover, the autodigestion results indicate that the two calreticulin types generally autodigest similarly but some indicators of differences exist.
+
+In addition, cysteine oxidations, which were found previously, were investigated. The results showed extensive oxidations on all cysteines and some of the methionines and prolines. The cysteine modifications indicated that calreticulin possibly could dimerise through Cys163. Moreover, the oxidations also indicated that the P-region folds down towards the core region. A possible reaction for the generation of reactive oxygen species was also proposed and involves the oxidation of water to hydrogen peroxide when the disulphide bridge is reduced to its two cysteines.
+
 
 
 ## Used packages
