@@ -1,5 +1,6 @@
 # Characterisation of the 3D structure of calreticulin
 The project (Perfomed in the Spring semester 2021) tried to determine differences between recombinant and placental calreticulin using 15N Labelling.
+The project is not activly maintained.
 
 ## Project abstract
 The report investigates whether the recombinant and the placental calreticulin autodigests similarly using 15N labelled recombinant calreticulin. The results from the control experiments were similar across the two types. Therefore, it is possible to use 15N labelling in such autodigestion experiments. Moreover, the autodigestion results indicate that the two calreticulin types generally autodigest similarly but some indicators of differences exist.
